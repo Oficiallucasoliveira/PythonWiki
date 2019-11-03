@@ -15,6 +15,6 @@ def main():
 			print('Numero: ', p1, '* ', i, ' = ', somar)
 
 
-		break	
+		main()	
 main()
 	
